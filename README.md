@@ -1,7 +1,10 @@
 # Robotics and Python Learning
 
 ## Overview
-This repository contains Python scripts, lecture materials, and hands-on exercises for the **Robotics and Automation** course. It serves as a resource for students learning both robotics concepts and Python programming.
+This repository contains Python scripts, lecture materials, and hands-on exercises for the **Robotics and Automation** course at **Texas A&M International University (TAMIU)**:
+- **CSCE 3345 and SENG 3340 - Robotics and Automation**.
+
+It serves as a resource for students learning both robotics concepts and Python programming.
 The materials are designed to integrate theoretical robotics concepts with practical programming applications using **Python and the [Robotics Toolbox for Python (by Peter Corke)](https://github.com/petercorke/robotics-toolbox-python)**.
 
 ## Contents
