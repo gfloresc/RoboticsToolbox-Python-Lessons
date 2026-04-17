@@ -21,7 +21,7 @@ o4 = np.array([a1 * c1 + a2 * c12, a1 * s1 + a2 * s12, -1])  # End-effector posi
 z0 = np.array([0, 0, 1])  # Rotation axis for the first joint
 z1 = np.array([0, 0, 1])  # Rotation axis for the second joint
 z2 = np.array([0, 0, -1])  # Rotation axis for the third component
-z3 = np.array([0, 0, -1])  # Rotation axis for the fourth component
+z3 = np.array([0, 0, 1])  # Rotation axis for the fourth component
 
 # Compute the Jacobian columns for linear velocity
 J_v1 = np.cross(z0, o4 - o0)  # Linear velocity contribution from the first joint
